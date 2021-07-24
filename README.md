@@ -1,5 +1,5 @@
 ## Links
-[<img src="java.png" width="30" height="30"/>](https://www.linkedin.com/in/ishajain15/)
+[<img src="linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/ishajain15/)
 ## Languages and Tools
 <p float="left">
   <img src="java.png" width="30" height="30"/>
