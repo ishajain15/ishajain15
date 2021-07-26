@@ -1,6 +1,11 @@
-## Links
-[<img src="linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/ishajain15/)
-## Languages and Tools
+<h1 align="center">Hi 👋, I'm Isha Jain</h1>
+<h3 align="center">A computer science student at Purdue University</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishajain15&color=blue&style=flat">
+</p>
+
+### 🛠 &nbsp;Languages and Tools
 <p float="left">
   <img src="java.png" width="30" height="30"/>
   <img src="html-5.png" width="30" height="30"/>
@@ -22,3 +27,6 @@
 </p>
 
 <img align="left" alt="ishajain15's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishajain15&count_private=true&show_icons=true&theme=graywhite&hide=stars&hide_border=true"/>
+
+## Links
+[<img src="linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/ishajain15/)
