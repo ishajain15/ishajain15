@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=ishajain15&color=blue&style=flat">
 </p>
 
-### 🛠 &nbsp;Languages and Tools
+### &nbsp;Languages and Tools
 <p float="left">
   <img src="java.png" width="30" height="30"/>
   <img src="html-5.png" width="30" height="30"/>
@@ -26,7 +26,7 @@
   <img src="visual-studio-code-2019.png" width="30" height="30"/>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ishajain15">
