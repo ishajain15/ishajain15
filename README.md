@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/ishajain15">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishajain15&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishajain15&layout=compact&langs_count=8&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishajain15&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishajain15&layout=compact&langs_count=8&theme=graywhite&hide_border=true"/>
 </a>
 </p>
 
