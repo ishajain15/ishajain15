@@ -6,18 +6,19 @@
 </p>
 
 ### &nbsp;Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+
 <p float="left">
-  <img src="java.png" width="30" height="30"/>
-  <img src="html-5.png" width="30" height="30"/>
-  <img src="css3.png" width="30" height="30"/>
-  <img src="c-programming.png" width="30" height="30"/>
-  <img src="c-sharp.png" width="30" height="30"/>
-  <img src="javascript.png" width="30" height="30"/>
   <img src="sql.png" width="30" height="30"/>
-  <img src="postgresql.png" width="30" height="30"/>
-  <img src="dart.png" width="30" height="30"/>
-  <img src="python.png" width="30" height="30"/>
-  <img src="graphql.png" width="30" height="30"/>
   <img src="postman-api.png" width="30" height="30"/>
   <img src="microsoft-power-automate-2020.png" width="30" height="30"/>
   <img src="firebase.png" width="30" height="30"/>
