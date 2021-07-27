@@ -28,5 +28,14 @@
 
 <img align="left" alt="ishajain15's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ishajain15&count_private=true&show_icons=true&theme=graywhite&hide=stars&hide_border=true"/>
 
+<p align="center">
+<a href="https://github.com/ishajain15">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ishajain15&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ishajain15&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
+</p>
+
+
+
 ## Links
 [<img src="linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/ishajain15/)
