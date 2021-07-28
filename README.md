@@ -23,10 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Power Automate](MicrosoftPowerAutomate.svg)
-
-<p float="left">
-  <img src="sql.png" width="30" height="30"/>
-</p>
+![SQL](SQL.svg)
 
 ### &nbsp;GitHub Analytics
 
