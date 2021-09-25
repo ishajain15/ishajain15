@@ -24,6 +24,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Power Automate](MicrosoftPowerAutomate.svg)
 ![SQL](SQL.svg)
+![MySQL](mysql.svg)
 
 ### &nbsp;GitHub Analytics
 
