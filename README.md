@@ -40,5 +40,3 @@
 ### &nbsp;Connect with Me
 <a href="https://linkedin.com/in/ishajain15"><img src="https://img.shields.io/badge/-ishajain15-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ishajainpdx@gmail.com"><img src="https://img.shields.io/badge/-ishajainpdx@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_jainisha"><img src="https://img.shields.io/badge/@__jainisha-E1306C?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/_jainisha"><img src="https://img.shields.io/badge/-@__jainisha-1877F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
